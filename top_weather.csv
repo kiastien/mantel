@@ -1,0 +1,8 @@
+,City,Top Weather Text
+0, Sydney ,"[' Clear ', ' Cloudy ', ' Sunny ']"
+1, Perth ,"[' Cloudy ', ' Light Rain Shower ', ' Rain Shower ']"
+2, Darwin ,"[' Partly Sunny ', ' Clear ', ' Cloudy ']"
+3, Canberra ,"[' Mostly Cloudy ', ' Thunderstorm ', ' Cloudy ']"
+4, Hobart ,"[' Cloudy ', ' Mostly Clear ', ' Mostly Sunny ']"
+5, Melbourne ,[' Mostly Cloudy ']
+6, Brisbane ,"[' Partly Sunny ', ' Foggy ', ' Ground Fog ']"
